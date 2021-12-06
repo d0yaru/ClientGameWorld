@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="systemclass.cpp" />
+    <ClCompile Include="applicationclass.cpp" />
+    <ClCompile Include="inputclass.cpp" />
+    <ClCompile Include="d3dclass.cpp" />
+    <ClCompile Include="networkclass.cpp" />
+    <ClCompile Include="timerclass.cpp" />
+    <ClCompile Include="fpsclass.cpp" />
+    <ClCompile Include="cpuclass.cpp" />
+    <ClCompile Include="userinterfaceclass.cpp" />
+    <ClCompile Include="stateclass.cpp" />
+    <ClCompile Include="blackforestclass.cpp" />
+    <ClCompile Include="cameraclass.cpp" />
+    <ClCompile Include="positionclass.cpp" />
+    <ClCompile Include="lightclass.cpp" />
+    <ClCompile Include="skydomeclass.cpp" />
+    <ClCompile Include="skydomeshaderclass.cpp" />
+    <ClCompile Include="terrainclass.cpp" />
+    <ClCompile Include="terrainshaderclass.cpp" />
+    <ClCompile Include="textureshaderclass.cpp" />
+    <ClCompile Include="modelclass.cpp" />
+    <ClCompile Include="entitylistclass.cpp" />
+    <ClCompile Include="frustumclass.cpp" />
+    <ClCompile Include="quadtreeclass.cpp" />
+    <ClCompile Include="textureclass.cpp" />
+    <ClCompile Include="bitmapclass.cpp" />
+    <ClCompile Include="textclass.cpp" />
+    <ClCompile Include="fontclass.cpp" />
+    <ClCompile Include="fontshaderclass.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="systemclass.h" />
+    <ClInclude Include="applicationclass.h" />
+    <ClInclude Include="inputclass.h" />
+    <ClInclude Include="d3dclass.h" />
+    <ClInclude Include="networkclass.h" />
+    <ClInclude Include="timerclass.h" />
+    <ClInclude Include="fpsclass.h" />
+    <ClInclude Include="cpuclass.h" />
+    <ClInclude Include="userinterfaceclass.h" />
+    <ClInclude Include="stateclass.h" />
+    <ClInclude Include="blackforestclass.h" />
+    <ClInclude Include="cameraclass.h" />
+    <ClInclude Include="positionclass.h" />
+    <ClInclude Include="lightclass.h" />
+    <ClInclude Include="skydomeclass.h" />
+    <ClInclude Include="skydomeshaderclass.h" />
+    <ClInclude Include="terrainclass.h" />
+    <ClInclude Include="terrainshaderclass.h" />
+    <ClInclude Include="textureshaderclass.h" />
+    <ClInclude Include="modelclass.h" />
+    <ClInclude Include="entitylistclass.h" />
+    <ClInclude Include="frustumclass.h" />
+    <ClInclude Include="quadtreeclass.h" />
+    <ClInclude Include="textureclass.h" />
+    <ClInclude Include="networkmessages.h" />
+    <ClInclude Include="bitmapclass.h" />
+    <ClInclude Include="textclass.h" />
+    <ClInclude Include="fontclass.h" />
+    <ClInclude Include="fontshaderclass.h" />
+  </ItemGroup>
+</Project>
